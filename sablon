@@ -62,7 +62,7 @@
         <div class="sol sutun tıpı">
           <div class="ders-menu">
             <h2>Python Eğitimi</h2><br>
-            <a target="_top" href="python-giris.html" class="selected">Python'a Giriş</a>
+            <a target="_top" href="python-giris.html">Python'a Giriş</a>
             <a target="_top" href="python-baslarken.html">Python' Başlarken</a>
             <a target="_top" href="python-sozdizimi.html">Python Sözdizimi</a>
             <a target="_top" href="python-yorumlar.html">Python Yorumlar</a>
@@ -77,7 +77,7 @@
             <a target="_top" href="python-veri-türü.html">Python Veri Türü</a>
             <a target="_top" href="python-numaraları.html">Python Numaraları</a>
             <a target="_top" href="python-dökümü.html">Python Dökümü</a>
-            <a target="_top" id="mLk2" href="python-string.html">Python String</a>
+            <a target="_top" id="mLk2" href="">Python String</a>
           <div id="mCt2" class="acilir" style="display: none;">
               <a href="python-string.html">Python Stingleri</a>
               <a href="python-stringlrti-dilim.html">Stringleri Dilimleme</a>
@@ -89,7 +89,7 @@
           </div>
             <a target="_top" href="python-boolean.html">Python Boolean</a>
             <a target="_top" href="python-operetörleri.html">Python Operatörleri</a>
-            <a target="_top" id="mLk3" href="python-listeleri.html">Python Listeleri</a>
+            <a target="_top" id="mLk3" href="">Python Listeleri</a>
             <div id="mCt3" class="acilir" style="display: none;">
               <a href="python-listeleri.html">Python Listeleri</a>
               <a href="python-liste-ögelerine-erisim.html">Liste Öğelerine Erişim</a>
@@ -103,7 +103,7 @@
               <a href="python-listeye-ekleme.html">Listeye Ekleme</a>
               <a href="python-yöntemleri-listeleme.html">Yöntemleri Listeleme</a>
           </div>
-            <a target="_top" id="mLk4" href="python-tuples.html">Python Tuples</a>
+            <a target="_top" id="mLk4" href="">Python Tuples</a>
           <div id="mCt4" class="acilir" style="display: none;">
               <a href="python-tuples.html">Python Tuples</a>
               <a href="python-tuples-ersim.html">Tuples Erişim</a>
@@ -113,7 +113,7 @@
               <a href="python-tuples-ekleme.html">Tuples Ekleme</a>
               <a href="python-tuples-yöntemleri.html">Tuples Yöntemleri</a>
           </div>
-          <a target="_top" id="mlk5" href="python-setleri.html">Python Setleri</a>
+          <a target="_top" id="mlk5" href="">Python Setleri</a>
           <div id="mct5" class="acilir" style="display: none;">
               <a href="python-setleri.html">Python Setleri</a>
               <a href="python-set-ögelerine-erisim.html">Set Öğelerine Erişim</a>
@@ -123,7 +123,7 @@
               <a href="python-setlere-katılmak.html">Setlere katılmak</a>
               <a href="python-yönteleri-ayarla.html">Yönteleri Ayarla</a>
           </div>
-          <a target="_top" id="mlk6" href="python-sözlükleri.html">Python Sözlükleri</a>
+          <a target="_top" id="mlk6" href="">Python Sözlükleri</a>
           <div id="mct6" class="acilir" style="display: none;">
               <a href="python-sözlükleri.html">Python Sözlükleri</a>
               <a href="python-ersim-ögeleri.html">Erişim Öğeleri</a>
