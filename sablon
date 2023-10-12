@@ -62,100 +62,100 @@
         <div class="sol sutun tıpı">
           <div class="ders-menu">
             <h2>Python Eğitimi</h2><br>
-            <a target="_top" href="python-giris.html">Python'a Giriş</a>
+            <a target="_top" href="python-giris.html" class="selected">Python'a Giriş</a>
             <a target="_top" href="python-baslarken.html">Python' Başlarken</a>
-            <a target="_top" href= "python-sozdizimi.html" class="selected">Python Sözdizimi</a>
-            <a target="_top" href="">Python Yorumlar</a>
+            <a target="_top" href="python-sozdizimi.html">Python Sözdizimi</a>
+            <a target="_top" href="python-yorumlar.html">Python Yorumlar</a>
             <a target="_top" id="mLk1" href="">Python Değişkenler</a>
             <div id="mCt1" class="acilir" style="display: none;">
-              <a href="#">Python Değişkenleri</a>
-              <a href="#">Python Adları</a>
-              <a href="#">Çok Değer Ata</a>
-              <a href="#">Çıkış Değişkenleri</a>
-              <a href="#">Genel Değişkenler</a>
+              <a href="python-degiskenler.html">Python Değişkenleri</a>
+              <a href="python-adları.html">Python Adları</a>
+              <a href="python-cok-deger-ata.html">Çok Değer Ata</a>
+              <a href="python-cıkıs-degiskenleri.html">Çıkış Değişkenleri</a>
+              <a href="python-genel-degiskenler.html">Genel Değişkenler</a>
           </div>
-            <a target="_top" href="">Python Veri Türü</a>
-            <a target="_top" href="">Python Numaraları</a>
-            <a target="_top" href="">Python Dökümü</a>
-            <a target="_top" id="mLk2" href="#">Python String</a>
+            <a target="_top" href="python-veri-türü.html">Python Veri Türü</a>
+            <a target="_top" href="python-numaraları.html">Python Numaraları</a>
+            <a target="_top" href="python-dökümü.html">Python Dökümü</a>
+            <a target="_top" id="mLk2" href="python-string.html">Python String</a>
           <div id="mCt2" class="acilir" style="display: none;">
-              <a href="#">Python Stingleri</a>
-              <a href="#">Stringleri Dilimleme</a>
-              <a href="#">Stringleri Değiştirme</a>
-              <a href="">Stringleri Birleştirme</a>
-              <a href="">Stringleri Biçimlendirme</a>
-              <a href="">Kaçış Karakterleri</a>
-              <a href="">String Yöntemleri</a>
+              <a href="python-string.html">Python Stingleri</a>
+              <a href="python-stringlrti-dilim.html">Stringleri Dilimleme</a>
+              <a href="python-string-degistirme.html">Stringleri Değiştirme</a>
+              <a href="python-string-birlestirme.html">Stringleri Birleştirme</a>
+              <a href="python-string-bicimleri.html">Stringleri Biçimlendirme</a>
+              <a href="python-kacıs-karakter.html">Kaçış Karakterleri</a>
+              <a href="python-string-yöntemleri.html">String Yöntemleri</a>
           </div>
-            <a target="_top" href="">Python Boolean</a>
-            <a target="_top" href="">Python Operatörleri</a>
-            <a target="_top" id="mLk3" href="">Python Listeleri</a>
+            <a target="_top" href="python-boolean.html">Python Boolean</a>
+            <a target="_top" href="python-operetörleri.html">Python Operatörleri</a>
+            <a target="_top" id="mLk3" href="python-listeleri.html">Python Listeleri</a>
             <div id="mCt3" class="acilir" style="display: none;">
-              <a href="#">Python Listeleri</a>
-              <a href="#">Liste Öğelerine Erişim</a>
-              <a href="#">Liste Öğelerini Değiştirme</a>
-              <a href="">Liste Öğeleri Ekle</a>
-              <a href="">Liste Öğeleri Kaldır</a>
-              <a href="">Döngü Listeleri</a>
-              <a href="">Liste Anlama</a>
-              <a href="">Listeleri Sıralama</a>
-              <a href="">Listeleri Kopyalama</a>
-              <a href="">Listeye Ekleme</a>
-              <a href="">Yöntemleri Listeleme</a>
+              <a href="python-listeleri.html">Python Listeleri</a>
+              <a href="python-liste-ögelerine-erisim.html">Liste Öğelerine Erişim</a>
+              <a href="python-liste-ögelerine-degistirme.html">Liste Öğelerini Değiştirme</a>
+              <a href="python-liste-ögeleri-ekle.html">Liste Öğeleri Ekle</a>
+              <a href="python-liste-ögeleri-kaldır.html">Liste Öğeleri Kaldır</a>
+              <a href="python-döngü-listeleri.html">Döngü Listeleri</a>
+              <a href="python-liste-anlama.html">Liste Anlama</a>
+              <a href="python-listeleri-sıralama.html">Listeleri Sıralama</a>
+              <a href="python-listeleri-kopyalama.html">Listeleri Kopyalama</a>
+              <a href="python-listeye-ekleme.html">Listeye Ekleme</a>
+              <a href="python-yöntemleri-listeleme.html">Yöntemleri Listeleme</a>
           </div>
-            <a target="_top" id="mLk4" href="#">Python Tuples</a>
+            <a target="_top" id="mLk4" href="python-tuples.html">Python Tuples</a>
           <div id="mCt4" class="acilir" style="display: none;">
-              <a href="#">Python Tuples</a>
-              <a href="#">Tuples Erişim</a>
-              <a href="#">Tuples Güncelle</a>
-              <a href="">Tuples Paketinden Çıkar</a>
-              <a href="">Döngü Tuples'ları</a>
-              <a href="">Tuples Ekleme</a>
-              <a href="">Tuples Yöntemleri</a>
+              <a href="python-tuples.html">Python Tuples</a>
+              <a href="python-tuples-ersim.html">Tuples Erişim</a>
+              <a href="python-tuples-güncelle.html">Tuples Güncelle</a>
+              <a href="python-tuples-paketinden-cıkar.html">Tuples Paketinden Çıkar</a>
+              <a href="python-döngü-tuplesları.html">Döngü Tuples'ları</a>
+              <a href="python-tuples-ekleme.html">Tuples Ekleme</a>
+              <a href="python-tuples-yöntemleri.html">Tuples Yöntemleri</a>
           </div>
-          <a target="_top" id="mlk5" href="#">Python Setleri</a>
+          <a target="_top" id="mlk5" href="python-setleri.html">Python Setleri</a>
           <div id="mct5" class="acilir" style="display: none;">
-              <a href="#">Python Setleri</a>
-              <a href="#">Set Öğelerine Erişim</a>
-              <a href="#">Set Öğeleri Ekle</a>
-              <a href="">Set Öğleri Kaldır</a>
-              <a href="">Döngü Setleri</a>
-              <a href="">Setlere katılmak</a>
-              <a href="">Yönteleri Ayarla</a>
+              <a href="python-setleri.html">Python Setleri</a>
+              <a href="python-set-ögelerine-erisim.html">Set Öğelerine Erişim</a>
+              <a href="python-set-ögelerine-ekle.html">Set Öğeleri Ekle</a>
+              <a href="python-set-ögeleri-kaldır.html">Set Öğleri Kaldır</a>
+              <a href="python-döngü-setleri.html">Döngü Setleri</a>
+              <a href="python-setlere-katılmak.html">Setlere katılmak</a>
+              <a href="python-yönteleri-ayarla.html">Yönteleri Ayarla</a>
           </div>
-          <a target="_top" id="mlk6" href="#">Python Sözlükleri</a>
+          <a target="_top" id="mlk6" href="python-sözlükleri.html">Python Sözlükleri</a>
           <div id="mct6" class="acilir" style="display: none;">
-              <a href="#">Python Sözlükleri</a>
-              <a href="#">Erişim Öğeleri</a>
-              <a href="#">Öğeleri Değiştir</a>
-              <a href="">Öğe Ekle</a>
-              <a href="">Öğeleri Kaldır</a>
-              <a href="">Döngü Sözlükleri</a>
-              <a href="">Sözlükleri Kopyala</a>
-              <a href="">İç İçe Sözlükler</a>
-              <a href="">Sözlük Yöntemleri</a>
+              <a href="python-sözlükleri.html">Python Sözlükleri</a>
+              <a href="python-ersim-ögeleri.html">Erişim Öğeleri</a>
+              <a href="python-ögeleri-degistir.html">Öğeleri Değiştir</a>
+              <a href="python-öge-ekle.html">Öğe Ekle</a>
+              <a href="python-ögeleri-kaldır.html">Öğeleri Kaldır</a>
+              <a href="python-döngü-sözlükleri.html">Döngü Sözlükleri</a>
+              <a href="python-sözlükleri-kopyala.html">Sözlükleri Kopyala</a>
+              <a href="python-iç-içe-sözlükler.html">İç İçe Sözlükler</a>
+              <a href="python-sözlük.yöntemleri.html">Sözlük Yöntemleri</a>
           </div>          
-            <a target="_top" href="">Python If Else</a>
-            <a target="_top" href="">Python While Döngüsü</a>
-            <a target="_top" href="">Python Döngü</a> 
-            <a target="_top" href="">Python İşlevleri</a>
-            <a target="_top" href="">Python Lambda</a>
-            <a target="_top" href="">Python Dizileri</a>
-            <a target="_top" href="">Python Sınıf/Nesne</a>
-            <a target="_top" href="">Python Kalıtımı</a>
-            <a target="_top" href="">Python Yineleyiciler</a>
-            <a target="_top" href="">Python Polimorfizmi</a>
-            <a target="_top" href="">Python Kapsamı</a>
-            <a target="_top" href="">Python Modülleri</a>
-            <a target="_top" href="">Python Tarihleri</a>
-            <a target="_top" href="">Python Matematiği</a>
-            <a target="_top" href="">Python JSON</a>
-            <a target="_top" href="">Python RegEx</a>
-            <a target="_top" href="">Python PIP</a>
-            <a target="_top" href="">Python Deneyin İstisna</a>
-            <a target="_top" href="">Python Kullanıcı Girişi</a>
-            <a target="_top" href="">Python Dizisi Biçimlendirmesi</a><br>
-            <!-- DAHA SONRA TAMAMLANACAK 
+            <a target="_top" href="python-ıf-else.html">Python If Else</a>
+            <a target="_top" href="python-while-döngüsü.html">Python While Döngüsü</a>
+            <a target="_top" href="python-döngü.html">Python Döngü</a> 
+            <a target="_top" href="python-islevleri.html">Python İşlevleri</a>
+            <a target="_top" href="python-lambda.html">Python Lambda</a>
+            <a target="_top" href="python-dizileri.html">Python Dizileri</a>
+            <a target="_top" href="python-sınıf-nesne.html">Python Sınıf/Nesne</a>
+            <a target="_top" href="python-kalıtımı.html">Python Kalıtımı</a>
+            <a target="_top" href="python-yineleyiciler.html">Python Yineleyiciler</a>
+            <a target="_top" href="python-polimorfizmi.html">Python Polimorfizmi</a>
+            <a target="_top" href="python-kapsamı.html">Python Kapsamı</a>
+            <a target="_top" href="python-modülleri.html">Python Modülleri</a>
+            <a target="_top" href="python-tarihleri.html">Python Tarihleri</a>
+            <a target="_top" href="python-matematigi.html">Python Matematiği</a>
+            <a target="_top" href="python-json.html">Python JSON</a>
+            <a target="_top" href="python-regex.html">Python RegEx</a>
+            <a target="_top" href="python-pıp.html">Python PIP</a>
+            <a target="_top" href="python-deneyin-istisna.html">Python Deneyin İstisna</a>
+            <a target="_top" href="python-kullanıcı-girisi.html">Python Kullanıcı Girişi</a>
+            <a target="_top" href="python-dizisi-bicimlendirmesi.html">Python Dizisi Biçimlendirmesi</a><br>
+       <!-- DAHA SONRA TAMAMLANACAK 
             <h2>Dosya Yönetimi</h2><br>
             <a target="_top" href="">Python Dosya işleme </a>
             <a target="_top" href="">Python Dosya Okuma</a>
